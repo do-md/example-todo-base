@@ -1,25 +1,25 @@
 # Todo Base
 
-一个基于 [Zenith](https://www.npmjs.com/package/@do-md/zenith) 状态管理库的 Todo 示例应用。
+A Todo example app built with the [Zenith](https://www.npmjs.com/package/@do-md/zenith) state management library.
 
-## 技术栈
+## Tech Stack
 
 - React 18
 - TypeScript
 - Vite
-- [@do-md/zenith](https://www.npmjs.com/package/@do-md/zenith) — 状态管理
-- Immer — 不可变数据更新
+- [@do-md/zenith](https://www.npmjs.com/package/@do-md/zenith) — State management
+- Immer — Immutable data updates
 
-## 快速开始
+## Getting Started
 
 ```bash
 npm install
 npm run dev
 ```
 
-浏览器打开 `http://localhost:3000` 即可预览。
+Open `http://localhost:3000` in your browser.
 
-## 构建
+## Build
 
 ```bash
 npm run build
